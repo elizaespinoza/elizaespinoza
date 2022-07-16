@@ -1,8 +1,9 @@
-## Hi folks! I'm Elizabeth Espinoza 👋
+## Hi folks! I'm Eliza <img src="https://media4.giphy.com/media/J5M7SJDfZEZl8HazVG/giphy.gif" width="50"></h2>
 
-- 🔭 I’m currently working on bioinformatics and software development
-- 🌱 I’m currently learning python back end
-- 😄 Pronouns: She/Her
+<p><em>
+🔭 Bioinformatician at <a href="http://www.pgbioinfo.icb.ufmg.br/">Federal University of Minas Gerais</a><br>
+🔬 <a href="https://luar.dcc.ufmg.br/membros/">LUAR</a> Team Member
+</em></p>
 
 <div align="center">
 <div>
