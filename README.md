@@ -39,3 +39,7 @@
   <img align="center" alt="Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
   <img align="center" alt="LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
 </div></div>
+
+<div style="display: inline_block"><br><div align="right">
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" target="_blank" alt="Jokes Card" />
+</div></div>
