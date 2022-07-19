@@ -13,7 +13,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/887730956268605500/bdcd8b1ef7eda6974e85c1d5a3d31139.png">
+  <img align="right" alt="Ric" height="15%" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/887730956268605500/bdcd8b1ef7eda6974e85c1d5a3d31139.png">
   <a href="https://www.researchgate.net/profile/Elizabeth-Alfaro-Espinoza" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" target="blank"></a>
   <a href="https://www.sololearn.com/profile/5702848" target="_blank"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/elizabioinfo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
