@@ -1,6 +1,5 @@
 ## Hi folks! I'm Eliza <img src="https://media4.giphy.com/media/J5M7SJDfZEZl8HazVG/giphy.gif" width="50"></h2>
 
-<! -- Micro Bio -->
 <p><em>
 🔭 Bioinformatician student at <a href="http://www.pgbioinfo.icb.ufmg.br/">Federal University of Minas Gerais</a><br>
 🔬 <a href="https://luar.dcc.ufmg.br/membros/">LUAR</a> Team Member
@@ -50,7 +49,6 @@
   <img align="center" alt="LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
 </div></div>
 
-<! -- Random Jokes -->
 <div style="display: inline_block"><br><div align="right">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" target="_blank" alt="Jokes Card" />
 </div></div>
