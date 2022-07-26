@@ -9,9 +9,9 @@
 <div>
   <a href="https://github.com/elizaespinoza">
   <! -- GitHub Stats -->
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=elizaespinoza&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&custom_title=Eliza's GitHub Stats&bg_color=151b29,14213d,152b5c,angle=150"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=elizaespinoza&show_icons=true&hide_border=true&theme=outrun&include_all_commits=true&count_private=true&custom_title=Eliza's GitHub Stats&bg_color=151b29,14213d,152b5c,angle=150"/>
   <! -- Top Languages -->
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizaespinoza&layout=compact&langs_count=4&theme=outrun&bg_color=151b29,14213d,152b5c,angle=150"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizaespinoza&layout=compact&hide_border=true&langs_count=4&theme=outrun&bg_color=151b29,14213d,152b5c,angle=150"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -31,23 +31,10 @@
   <a href ="mailto:er.alfaroespinoza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
 </div></div>
 
-### Tech & Tools
+### <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/> Tech Stack
 
-<div style="display: inline_block"><br><div align="center">
-  <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
-  <img align="center" alt="Graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/>
-  <img align="center" alt="Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg"/>
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="R studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
-  <img align="center" alt="LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
-</div></div>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
+
 
 <div style="display: inline_block"><br><div align="right">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" target="_blank" alt="Jokes Card" />
