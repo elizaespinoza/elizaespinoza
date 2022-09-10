@@ -10,9 +10,9 @@
 <div align="center">
 <div>
   <a href="https://github.com/elizaespinoza">
-  <! -- GitHub Stats -->
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=elizaespinoza&show_icons=true&hide_border=true&theme=outrun&include_all_commits=true&count_private=true&custom_title=Eliza's GitHub Stats&bg_color=151b29,14213d,152b5c,angle=150"/>
-  <! -- Top Languages -->
+  <!-- GitHub Stats-->
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=elizaespinoza&show_icons=true&hide_border=true&theme=outrun&include_all_commits=true&count_private=true&bg_color=151b29,14213d,152b5c,angle=150"/>
+  <!-- Top Languages-->
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizaespinoza&layout=compact&hide_border=true&langs_count=4&theme=outrun&bg_color=151b29,14213d,152b5c,angle=150"/>
 </div>
 
